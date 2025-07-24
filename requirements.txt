@@ -1,0 +1,4 @@
+packaging==24.1
+pillow==11.0.0
+pytesseract==0.3.13
+prettytable==3.11.0
